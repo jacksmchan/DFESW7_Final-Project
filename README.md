@@ -64,6 +64,9 @@ A proper UI is required to meet industry standard.
 ## Screenshots of database to prove that data is being persisted.
 
 ## Screenshots of test results
+![Test Result](https://user-images.githubusercontent.com/94961207/152682935-4b9e7035-c1c7-4fe0-98c6-6e5ca12d628e.jpeg)
+
+## UML diagram
 ![Test Result](https://user-images.githubusercontent.com/94961207/152682322-638c102d-093c-416d-a801-073a40b94785.jpeg)
 
 ## Link to Jira board
