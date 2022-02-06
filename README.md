@@ -61,7 +61,11 @@ A proper UI is required to meet industry standard.
 19. Request ```Delete invoice by id``` is used to delete the invoice by its id
 20. ![DEL](https://user-images.githubusercontent.com/94961207/152682258-2c8cdd83-c03c-4e84-b83a-e8e5a17d4333.png)
 
-## Screenshots of database to prove that data is being persisted.
+## Screenshots of database to prove that data is being persisted
+![Testing 1](https://user-images.githubusercontent.com/94961207/152700757-05d8871a-355b-4ecb-b9d3-801f39dd7cb8.jpeg)
+![Testing 2](https://user-images.githubusercontent.com/94961207/152700768-2d53269f-3c3c-4673-95fa-35ffdf8b8ad8.jpeg)
+![Testing 3](https://user-images.githubusercontent.com/94961207/152700771-1794c8e6-b743-43ac-8e17-dee925331dbc.jpeg)
+![Testing 4](https://user-images.githubusercontent.com/94961207/152700780-ce72b461-3be4-4177-9d15-3bae89235670.jpeg)
 
 ## Screenshots of test results
 ![Test Result](https://user-images.githubusercontent.com/94961207/152682935-4b9e7035-c1c7-4fe0-98c6-6e5ca12d628e.jpeg)
